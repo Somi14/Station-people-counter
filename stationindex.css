@@ -1,0 +1,40 @@
+.container{
+
+padding-left: 60vw;
+}
+
+#count-el
+{
+    padding-left: 90px;
+}
+
+body{
+    background: url(https://images.unsplash.com/photo-1609003999383-ab122c731e6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RhdGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ) ;
+    background-repeat: no-repeat;
+   
+   
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: block;
+}
+
+#Increment-btn
+{
+    background-color: green;
+}
+#Decrement-btn
+{
+    background-color: red;
+}
+#save-bttn
+{
+    background-color: blue;
+}
